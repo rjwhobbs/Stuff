@@ -15,7 +15,6 @@ set title
 set showcmd
 set cursorline
 set nobackup
-set noswapfile
 set colorcolumn=80
 set comments=sl:/*,mb:\ *,elx:\ */
 syntax on
