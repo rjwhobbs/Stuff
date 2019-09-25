@@ -2,5 +2,6 @@
     "files.autoSave": "afterDelay",
     "editor.detectIndentation": false,
 	"editor.insertSpaces": false,
-	"editor.minimap.enabled": false
+	"editor.minimap.enabled": false,
+	"html.autoClosingTags": false
 }
