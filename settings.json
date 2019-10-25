@@ -3,5 +3,5 @@
     "editor.detectIndentation": false,
 	"editor.insertSpaces": false,
 	"editor.minimap.enabled": false,
-	"html.autoClosingTags": false
+	"editor.wordWrap": "on"
 }
