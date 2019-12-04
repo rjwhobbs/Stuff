@@ -3,5 +3,6 @@
     "editor.detectIndentation": false,
 	"editor.insertSpaces": false,
 	"editor.minimap.enabled": false,
-	"editor.wordWrap": "on"
+	"editor.wordWrap": "on",
+	"workbench.colorTheme": "Downpour Contrast (rainglow)"
 }
