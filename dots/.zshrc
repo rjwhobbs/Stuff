@@ -1,4 +1,5 @@
-PROMPT='%B%F{black}[%c]%f%b > '
+#PROMPT='%B%F{black}[%c]%f%b > '
+PROMPT='%m:%~ > '
 
 alias g='gcc -Wall -Werror -Wextra'
 alias m='make'
