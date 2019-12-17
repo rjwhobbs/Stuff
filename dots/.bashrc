@@ -9,7 +9,7 @@ alias nh='norminette -R CheckForbiddenSourceHeader'
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
-export PS1="\[\033[2m\][\W]\[\033[31m\]\$(parse_git_branch)\[\033[00m\] > "
+export PS1="\[\033[02m\][\W]\[\033[01m\]\$(parse_git_branch)\[\033[00m\] > "
 #export PS1='\h\[\033[01;30m\][\w]\[\033[00m\]'
 #export PS1='\[\033[01;30m\][\W]\[\033[00m\]'
 #export PS1='\033[01;30m\][\w]\[\033[00m\]'
