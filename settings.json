@@ -1,10 +1,20 @@
 {
-    "files.autoSave": "afterDelay",
-    "editor.detectIndentation": false,
+	"[javascript]": {
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4
+	},
+	"[c]": {
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4
+	},
+  "files.autoSave": "afterDelay",
+	"editor.detectIndentation": false,
+	"editor.tabSize": 2,
 	"editor.insertSpaces": false,
 	"editor.minimap.enabled": false,
 	"editor.wordWrap": "on",
 	"workbench.colorTheme": "Downpour Contrast (rainglow)",
-	"workbench.iconTheme": "vscode-great-icons",
-	"workbench.tree.indent": 30
+	"workbench.tree.indent": 30,
+	"workbench.iconTheme": "material-icon-theme",
+	"window.zoomLevel": 0
 }
