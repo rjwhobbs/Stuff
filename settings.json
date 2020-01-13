@@ -7,6 +7,10 @@
 		"editor.insertSpaces": false,
 		"editor.tabSize": 4
 	},
+	"[html]": {
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4
+	},
   "files.autoSave": "afterDelay",
 	"editor.detectIndentation": false,
 	"editor.tabSize": 2,
