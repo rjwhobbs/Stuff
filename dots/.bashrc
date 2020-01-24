@@ -1,7 +1,7 @@
 #[[ -r "/usr/local/etc/profile.d/bash_completion.sh" ]] && . "/usr/local/etc/profile.d/bash_completion.sh"
 alias g='gcc -Wall -Werror -Wextra'
 alias gco='git checkout'
-alias gcm='git checkout master'
+alias gcom='git checkout master'
 alias gm='git merge'
 alias gA='git add -A'
 alias gc='git commit -m'
